@@ -1,1 +1,7 @@
 print ("WENA MATHI")
+
+def hola():
+  print("wena po")
+
+hola()
+hola()
